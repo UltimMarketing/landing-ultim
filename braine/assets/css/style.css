@@ -60,6 +60,9 @@
 
 /*** 
 
+
+/*** 
+
 ====================================================================
 	Attachment Css Files
 ====================================================================
@@ -1202,7 +1205,7 @@
 }
 
 .testimonial-one .sec-title_title {
-    color: #D093E8;
+    color: #6E41AF;
 }
 
 .testimonial-one .auto-container{
@@ -1336,7 +1339,7 @@
 }
 
 .steps-one .sec-title_title {
-    color: #D093E8;
+    color: #6E41AF;
 }
 
 .steps-one_bg{
@@ -2053,7 +2056,7 @@
 }
 
 .social-one .sec-title_title{
-	color: #D093E8;
+	color: #6E41AF;
 }
 
 .social-one .sec-title{
@@ -2164,7 +2167,7 @@
 }
 
 .news-one .sec-title_title{
-	color: #D093E8;
+	color: #6E41AF;
 }
 
 .news-one.style-two{
@@ -7777,4 +7780,14 @@
 	z-index: 1;
 	font-size: 18px;
 	color: var(--color-six);
+}
+
+/***
+====================================================================
+	Ultin Marketing
+====================================================================
+
+***/
+.ultimmarketing-ai-reason:before {
+	content: url("../images/ultimmarketing-logo-white.png");
 }
